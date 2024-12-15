@@ -1,0 +1,578 @@
+"job_url","title","company","location","date_posted","is_remote","description","id"
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565525639","Software Engineer","PayPal","Bengaluru","2024-12-15",False,"",1
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848239","Software Engineer II - Python, Pyspark & PLSQL","JPMorganChase","Bengaluru","2024-12-15",False,"",2
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848408","Software Engineer II","JPMorganChase","Bengaluru","2024-12-15",False,"",3
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848375","Software Engineer III - Temenos","JPMorganChase","Bengaluru","2024-12-15",False,"",4
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565613684","Software Development Engineer II","Expedia Group","Bengaluru","2024-12-15",False,"",5
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565925824","Software Engineering Intern","Capital One","Bengaluru","2024-12-15",False,"",6
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565696923","Software Engineer II","Esko","Bengaluru","2024-12-15",False,"",7
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848399","Software Engineer III - KDB + Python Developer","JPMorganChase","Bengaluru","2024-12-15",False,"",8
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565322622","Software Engineer (Scala)","Maropost","Bengaluru","2024-12-15",False,"",9
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848315","Lead Software Engineer - React/ Javascript","JPMorganChase","Bengaluru","2024-12-15",False,"",10
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565801657","Software Development Engineer","ADCI - Karnataka","Bengaluru","2024-12-15",False,"",11
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565370780","Engineer II, Software","Thermo Fisher Scientific","Bengaluru","2024-12-15",False,"",12
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565646737","Specialist Software engineer - Java H/F/X","Société Générale","Bengaluru","2024-12-15",False,"",13
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565613667","Software Development Engineer III","Expedia Group","Bengaluru","2024-12-15",False,"",14
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565918971","Software Developer","Oracle","Bengaluru","2024-12-15",False,"",15
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565923349","Site Reliability Engineer (Python, Golang, Terraform, Ansible)","NetApp","Bengaluru","2024-12-15",False,"",16
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848334","Software Engineer III - Java Full Stack Developer","JPMorganChase","Bengaluru","2024-12-15",False,"",17
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565737962","FPGA HDL Developer","MIMOWAVES Technologies","Bengaluru","2024-12-15",False,"",18
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848351","Senior Manager of Software Engineering","JPMorganChase","Bengaluru","2024-12-15",False,"",19
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565612756","Software Development Engineer","Avis Budget Group","Bengaluru","2024-12-15",False,"",20
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565721970","Manager, Software Engineering","Thermo Fisher Scientific","Bengaluru","2024-12-15",False,"",21
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565225132","Staff Platform Software Engineer - India","Jumpcloud","Bengaluru","2024-12-15",False,"",22
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565880711","AWS Cloud Engineer","Gainwell Technologies LLC","Bengaluru","2024-12-15",False,"",23
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565964051","Machine Learning Engineer - Only IIT/NIT's - Remote","Promptcloud","Bengaluru","2024-12-15",False,"",24
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564903818","Software Developer","Oracle","Bengaluru","2024-12-14",False,"",25
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564691075","Software Engineer - (A-Tier)","Babel Sys Technology India Private Ltd.","","2024-12-14",True,"",26
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564569640","Software Engineer","Informatica","Bengaluru","2024-12-14",False,"",27
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564931278","Software Developer","InSilico Solutions LLP","India","2024-12-14",False,"",28
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564164234","MTS 1, Software Engineer","PayPal","Bengaluru","2024-12-14",False,"",29
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565050526","Associate Software Engineer- C#","ResMed","Bengaluru","2024-12-14",False,"",30
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564077431","Software Engineer","Capgemini","Bengaluru","2024-12-14",False,"",31
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564710503","Software Engineer II","Microsoft","Bengaluru","2024-12-14",False,"",32
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564760657","Software Engineer - Java, Adobe, Akamai","Soltia AB","Bengaluru","2024-12-14",False,"",33
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565044332","Software Engineer","Capgemini Engineering","Bengaluru","2024-12-14",False,"",34
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564687263","Software Engineer III - Java","JPMorganChase","Bengaluru","2024-12-14",False,"",35
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564331331","Full Stack Software Engineer","Splore","Bengaluru","2024-12-14",False,"",36
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564849301","Software Application Engineer","Hewlett Packard","Bengaluru","2024-12-14",False,"",37
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564151995","Software Engineering Professional","BT Group","Bengaluru","2024-12-14",False,"",38
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564733957","Software Engineer","QualityKiosk Technologies","Bengaluru","2024-12-14",False,"",39
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564164214","Associate Engineer – Full Stack","PayPal","Bengaluru","2024-12-14",False,"",40
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564554708","Software Engineer (Delphi)","Intely Cerebral Works","Bengaluru","2024-12-14",False,"",41
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564687377","Software Engineer III Java AWS Developer","JPMorganChase","Bengaluru","2024-12-14",False,"",42
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565097919","Software Developer","TransUnion","Bengaluru","2024-12-14",False,"",43
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564710525","Software Engineering M5","Microsoft","Bengaluru","2024-12-14",False,"",44
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565112877","Software Engineer - Full Stack","Apple","Bengaluru","2024-12-14",False,"",45
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564811007","Software Engineer II - Global Payroll","Rippling","Bengaluru","2024-12-14",False,"",46
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563967283","Software Engineer","NatWest","Bengaluru","2024-12-14",False,"",47
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564805355","Staff Software Engineer - iOS","Uber","Bengaluru","2024-12-14",False,"",48
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564736920","Backend Developer (Java)","DataArt","Bengaluru","2024-12-14",False,"",49
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564245097","Software Engineer III, Infrastructure, Google Ads","Google","Bengaluru","2024-12-14",False,"",50
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564118484","Embedded Power Software Engineer","Apple","Bengaluru","2024-12-14",False,"",51
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563921157","Junior Software Engineer - Order management","IKEA","Bengaluru","2024-12-14",False,"",52
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564572925","Web Scraping engineer| Fresher - exp. | Id: ed6d","Gmware","Bengaluru","2024-12-14",False,"",53
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564953373","Software Engineer","NetApp","Bengaluru","2024-12-14",False,"",54
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564953376","Software Engineering Manager","NetApp","Bengaluru","2024-12-14",False,"",55
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563967245","Quantexa Software Engineer, AVP","NatWest","Bengaluru","2024-12-14",False,"",56
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564103780","Client Technology NITRO-Experimental Engineer- Frontend Developer","EY","Bengaluru","2024-12-14",False,"",57
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564569076","Frontend Developer","ZapCom Solutions","Bengaluru","2024-12-14",False,"",58
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565113347","Software Development Engineer","Accenture","Bengaluru","2024-12-14",False,"",59
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563948037","Software Engineer II","Uber","Bengaluru","2024-12-14",False,"",60
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564596446","Web Developer","Sunrise Digital Media","Bengaluru","2024-12-14",False,"",61
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564683831","Prod. Management - Associate - Software Prod. Management & Reliability Engineering","Morgan Stanley","Bengaluru","2024-12-14",False,"",62
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564517663","Software Engineer - Android","Park Controls & Communications","Bengaluru","2024-12-14",False,"",63
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564352473","Project Manager- software development","Adhaan Solution Pvt. Ltd.","Bengaluru","2024-12-14",False,"",64
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565071295","Lead Software Engineer I","Allstate","Bengaluru","2024-12-14",False,"",65
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564742950","Principal Software Applications Development Engineer","NTT DATA","Bengaluru","2024-12-14",False,"",66
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564518567","Junior Flutter Developer","Live fx","Bengaluru","2024-12-14",False,"",67
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565032604","Software Development Engineer IV","RingCentral","Bengaluru","2024-12-14",False,"",68
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565071519","Senior Software Engineer (Backend)","Wego","Bengaluru","2024-12-14",False,"",69
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563921688","Senior Software Engineer - Order management","IKEA","Bengaluru","2024-12-14",False,"",70
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564944837","Professional, Software Development Engineering","Fiserv, Inc.","Bengaluru","2024-12-14",False,"",71
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564925043","DevOps Engineer","Talentcruise Technologies","Bengaluru","2024-12-14",False,"",72
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564920636","Software Engr II","Honeywell","Bengaluru","2024-12-14",False,"",73
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564365220","Software Engineer - C++, Windows, networking","Ivanti","Bengaluru","2024-12-14",False,"",74
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564761260","UI Developer","ixigo","Bengaluru","2024-12-14",False,"",75
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564864453","Full Stack Developer","HeadPro Consulting","Bengaluru","2024-12-14",False,"",76
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563921262","Software Engineer - Order management","IKEA","Bengaluru","2024-12-14",False,"",77
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564645446","Lead Software Engineer","DocuSign","Bengaluru","2024-12-14",False,"",78
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564737120","Java Developer","Talentcruise Technologies","Bengaluru","2024-12-14",False,"",79
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563901658","Senior Software Engineer","Epsilon","Bengaluru","2024-12-14",False,"",80
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564821089","ASP.NET Developer","Technoforte Software Pvt. Ltd","Bengaluru","2024-12-14",False,"",81
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564332952","Application Developer","acesoftlabs","Bengaluru","2024-12-14",False,"",82
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564870590","Software Engineering Specialist","BT","Bengaluru","2024-12-14",False,"",83
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564494796","SQL Developer","Anvaya Info Solutions Pvt. Ltd","India","2024-12-14",False,"",84
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564933768","Software Developer (m/f/d)","Cuculus GmbH","Bengaluru","2024-12-14",False,"",85
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564435942","Engineer III, Software","Thermo Fisher Scientific","Bengaluru","2024-12-14",False,"",86
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564242225","Application Developer","Accenture","Bengaluru","2024-12-14",False,"",87
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563971912","Software Development Engineer","Ericsson","Bengaluru","2024-12-14",False,"",88
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564314167","Senior Software Engineer (ROR)","Maropost","Bengaluru","2024-12-14",False,"",89
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564692570","Senior Android Developer","Provaantech solution","Bengaluru","2024-12-14",False,"",90
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564682906","Android - Senior Software Engineer","Epifi Technologies","Bengaluru","2024-12-14",False,"",91
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564331330","Full Stack Engineer","Splore","Bengaluru","2024-12-14",False,"",92
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565011896","DevOps Engineer","PeerXP","Bengaluru","2024-12-14",False,"",93
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565043469","Senior Software Engineer","Verint Systems Inc.","Bengaluru","2024-12-14",False,"",94
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562788169","Software Engineer I","RELX","Bengaluru","2024-12-13",False,"",95
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563326352","Software Engineer","Splunk","Bengaluru","2024-12-13",False,"",96
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562742091","Software Development Engineer in Test View Jobs","Swiggy","Bengaluru","2024-12-13",False,"",97
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563616557","Software Engineer - SQL","Yash Technologies","Bengaluru","2024-12-13",False,"",98
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561863574","Software Engineer I","LexisNexis","Bengaluru","2024-12-13",False,"",99
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562787886","Software Engineer I","Elsevier","Bengaluru","2024-12-13",False,"",100
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563634434","Software Engineer, Kernel and Firmware, Silicon","Google","Bengaluru","2024-12-13",False,"",101
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563268635","Embedded Software Engineer","Rayvector Technologies Private Limited","India","2024-12-13",False,"",102
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562402654","Software Engineer II, Mobile","Google","Bengaluru","2024-12-13",False,"",103
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562310904","Senior Software Engineer","PayPal","Bengaluru","2024-12-13",False,"",104
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561787048","Software Engineer II","Rippling","Bengaluru","2024-12-13",False,"",105
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563183556","Software Engineer - B","Capgemini Engineering","Bengaluru","2024-12-13",False,"",106
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563170248","Software Engineer- Android","Procore","Bengaluru","2024-12-13",False,"",107
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562796147","Associate Software Developer","Anthology, Inc.","Bengaluru","2024-12-13",False,"",108
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563825139","Software Development Engineer","Accenture","Bengaluru","2024-12-13",False,"",109
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562478740","Web Developer","Lirctek technologies Pvt ltd","Bengaluru","2024-12-13",False,"",110
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562765716","Software Dev Engineer - II, Amazon","ADSIPL - Karnataka","Bengaluru","2024-12-13",False,"",111
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563270877","Java Developer","Zipigo technosoft pvt ltd","Bengaluru","2024-12-13",False,"",112
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562600838","Cloud Engineer","AB first","Bengaluru","2024-12-13",False,"",113
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563508014","Developer - Software Tester","Wesco","Bengaluru","2024-12-13",False,"",114
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562451609","High Performance Computing - Networking Software development Engineer","Hewlett Packard Enterprise","Bengaluru","2024-12-13",False,"",115
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562111486","Cloud Software Development Engineer","INTEL","Bengaluru","2024-12-13",False,"",116
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563479411","Developer","Wipro Limited","Bengaluru","2024-12-13",False,"",117
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563554565","Senior Software Engineer","ABB","Bengaluru","2024-12-13",False,"",118
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563519416","Data Engineer","Whitefield Careers","Bengaluru","2024-12-13",False,"",119
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562075857","Software Development Engineer II - Android","AiDash","Bengaluru","2024-12-13",False,"",120
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563657670","Software Dev Engineer (TEMP)","ADCI - Karnataka","Bengaluru","2024-12-13",False,"",121
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563333269","Software Engineer II","Uber","Bengaluru","2024-12-13",False,"",122
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562323252","Software Developer","Oracle","Bengaluru","2024-12-13",False,"",123
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563566255","Software Developer","Oracle","Bengaluru","2024-12-13",False,"",124
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563148082","Devops Engineer","Aritha","Bengaluru","2024-12-13",False,"",125
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562120071","Software Development Engineer, Amazon Pay Transaction Processing","ADCI - Karnataka","Bengaluru","2024-12-13",False,"",126
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563589977","Principal Software Development Engineer","Informatica","Bengaluru","2024-12-13",False,"",127
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563540827","Fullstack Software Engineer (GoLang and Javascript)","Verve","Bengaluru","2024-12-13",False,"",128
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562103120","Software Engineer - Dot Net H/F/X","Société Générale","Bengaluru","2024-12-13",False,"",129
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563570255","Full Stack Engineer","ACL Digital","Bengaluru","2024-12-13",False,"",130
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563566253","User Experience Developer 1-ProdDev","Oracle","Bengaluru","2024-12-13",False,"",131
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561891290","Mainframe Software Engineer","NatWest","Bengaluru","2024-12-13",False,"",132
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561893240","Databases Site Reliability Engineer","Google","Bengaluru","2024-12-13",False,"",133
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561893271","System Engineer, Site Reliability Engineering","Google","Bengaluru","2024-12-13",False,"",134
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562650187","Senior Software Engineer - IOS","Diligent Corporation","Bengaluru","2024-12-13",False,"",135
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562778617","ReactJS Developer","QuEST Global","Bengaluru","2024-12-13",False,"",136
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562706109","Senior Software Quality Engineer","Talme Technologies","Bengaluru","2024-12-13",False,"",137
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563639056","Java Developer","Ericsson","Bengaluru","2024-12-13",False,"",138
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563482069","DevOps Engineer","Wipro Limited","Bengaluru","2024-12-13",False,"",139
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563520782","DevOps Engineer","SAP","Bengaluru","2024-12-13",False,"",140
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563357168","AWS Cloud DevOps Engineer","Rapyder Cloud Solutions","Bengaluru","2024-12-13",False,"",141
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563508308","Java Developer","Whitefield Careers","Bengaluru","2024-12-13",False,"",142
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563739190","Java Developer (Remote)","Minutes to Seconds Pty Ltd","Bengaluru","2024-12-13",False,"",143
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563483156","C++ Developer","Hewlett Packard","Bengaluru","2024-12-13",False,"",144
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562796165","Associate Software Developer","Anthology, Inc.","Bengaluru","2024-12-13",False,"",145
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563507991","Developer","Wesco","Bengaluru","2024-12-13",False,"",146
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563070023","Software Engineer Senior consultant I","Allstate","Bengaluru","2024-12-13",False,"",147
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561856203","Director, Software Engineering","Intuit","Bengaluru","2024-12-13",False,"",148
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563698165","Manager, Software Engineering (Hybrid)","Kaplan","Bengaluru","2024-12-13",False,"",149
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560591433","Software development - immediate joiners","Sygnext","Bengaluru","2024-12-12",False,"",150
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560851934","Software Support Engineer – Prepress Engines Support","Esko","Bengaluru","2024-12-12",False,"",151
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560751202","Software Engineer I","BetterWorks","Bengaluru","2024-12-12",False,"",152
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561632209","Software Engineer","Infinite Computer Solutions Ltd.","Bengaluru","2024-12-12",False,"",153
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561058815","Quantexa Software Engineer","NatWest","Bengaluru","2024-12-12",False,"",154
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560324461","Software Engineer Typescript-(Backend Junior/Mid)","Maropost","Bengaluru","2024-12-12",False,"",155
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561278191","Software Engineer-Mainframe | Bangalore","Broadridge","Bengaluru","2024-12-12",False,"",156
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560465994","Software Engineer","Syncron","Bengaluru","2024-12-12",False,"",157
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561412801","Software Engineer II","Uber","Bengaluru","2024-12-12",False,"",158
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560801683","Software Engineer","SolarWinds","Bengaluru","2024-12-12",False,"",159
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561151202","Software Engineer","Chubb","Bengaluru","2024-12-12",False,"",160
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561404098","Applications Developer","Oracle","Bengaluru","2024-12-12",False,"",161
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561206767","Software Engineer","Autodesk","Bengaluru","2024-12-12",False,"",162
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561462469","Software Engineer","Huron Consulting Group Inc.","Bengaluru","2024-12-12",False,"",163
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561636518","Software Engineer Java","HealthEdge","Bengaluru","2024-12-12",False,"",164
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560651238","Software Engineer, DevOps - Client Ops","Boston Consulting Group","Bengaluru","2024-12-12",False,"",165
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560193865","Software Engineer","Red Hat, Inc.","Bengaluru","2024-12-12",False,"",166
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560269525","Lead Software Engineer","Wells Fargo","Bengaluru","2024-12-12",False,"",167
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561718759","Software Configuration Engineer","Accenture","Bengaluru","2024-12-12",False,"",168
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561098854","Software Engineer, Developer Support","DocuSign","Bengaluru","2024-12-12",False,"",169
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561141349","Software Engineer III - Performance Engineer","JPMorganChase","Bengaluru","2024-12-12",False,"",170
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560265336","Software Engineer I","Anthology, Inc.","Bengaluru","2024-12-12",False,"",171
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561659529","Software Engineer III","MRI Software","Bengaluru","2024-12-12",False,"",172
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560851932","Software Support Engineer – IAP Support","Esko","Bengaluru","2024-12-12",False,"",173
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561766848","FullStack Software Engineer","Simreka","Bengaluru","2024-12-12",False,"",174
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560353655","Infrastructure and DevOps Engineer","INTEL","Bengaluru","2024-12-12",False,"",175
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561069476","Software Development Engineer III","Ericsson","Bengaluru","2024-12-12",False,"",176
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560267133","Software Engineer, Front End, Google Cloud","Google","Bengaluru","2024-12-12",False,"",177
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561058869","Software Engineer, AVP","NatWest","Bengaluru","2024-12-12",False,"",178
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561413012","Senior CI and Automation Engineer (Linux)","ARM","Bengaluru","2024-12-12",False,"",179
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560353660","Software Application Engineering Manager","INTEL","Bengaluru","2024-12-12",False,"",180
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560359508","Software Developer Engineer, Device Software Services","ADCI - Karnataka","Bengaluru","2024-12-12",False,"",181
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560858358","Backend Developer Intern","Winuall","Bengaluru","2024-12-12",False,"",182
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560931678","Internship - web developer","Magnum Technologies Services","India","2024-12-12",False,"",183
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561040600","Senior Software Engineer - AI","Couchbase","Bengaluru","2024-12-12",False,"",184
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561635460","Java Developer","Manasio Pvt Ltd","India","2024-12-12",False,"",185
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561496256","Senior Software Engineer - PowerBI","ECI","Bengaluru","2024-12-12",False,"",186
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560763886","Azure DevOps Engineer","Qode.world","Bengaluru","2024-12-12",False,"",187
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560539620","Software Engineer, DevOps - Client Ops","Boston Consulting Group","Bengaluru","2024-12-12",False,"",188
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560199882","Laravel Developer - Backend Developer","Nexevo Technologies","Bengaluru","2024-12-12",False,"",189
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561040667","Audio Developer","Brainworks Business Solutions","Bengaluru","2024-12-12",False,"",190
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561039544","Front End Developer","BNET Insurance Brokers Pvt Ltd","Bengaluru","2024-12-12",False,"",191
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561029831","Backend Developer Nestjs","BNET Insurance Brokers Pvt Ltd","Bengaluru","2024-12-12",False,"",192
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561116365","API Developer","Increasingly","Bengaluru","2024-12-12",False,"",193
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560193868","Principal Software Engineer","Red Hat, Inc.","Bengaluru","2024-12-12",False,"",194
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561092356","Senior Software Engineer - AI","Couchbase, Inc.","Bengaluru","2024-12-12",False,"",195
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561749101","Frontend Developer (React)","Luxoft","Bengaluru","2024-12-12",False,"",196
+"https://www.linkedin.com/jobs/view/4077883403","Software Engineer-UI","LinkedIn","Bengaluru, Karnataka, India","2024-12-13","","",197
+"https://www.linkedin.com/jobs/view/4081808404","Software Engineer II","Microsoft","Bengaluru, Karnataka, India","2024-12-12","","",198
+"https://www.linkedin.com/jobs/view/4097317952","React JS Developer","LTIMindtree","Bangalore Urban, Karnataka, India","2024-12-12","","",199
+"https://www.linkedin.com/jobs/view/4079275053","Software Engineer - UI","LinkedIn","Bengaluru, Karnataka, India","","","",200
+"https://www.linkedin.com/jobs/view/4097675151","Software Developer 1","Oracle","Bengaluru, Karnataka, India","","","",201
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565946722","flutter developer","CRED","Bengaluru","2024-12-15",False,"",202
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848399","Software Engineer III - KDB + Python Developer","JPMorganChase","Bengaluru","2024-12-15",False,"",203
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565525639","Software Engineer","PayPal","Bengaluru","2024-12-15",False,"",204
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565916988","Python and React.js Developer","AB first","Bengaluru","2024-12-15",False,"",205
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565918370","Python and React.js Developer","ABFirst Pvt.Ltd","Bengaluru","2024-12-15",False,"",206
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565684333","Java Developer (Contract to Hire) 4+ years experience required","NexGen TechSoft","Bengaluru","2024-12-15",False,"",207
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565803587","Golang Developer","TECH NEXT","Bengaluru","2024-12-15",False,"",208
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848334","Software Engineer III - Java Full Stack Developer","JPMorganChase","Bengaluru","2024-12-15",False,"",209
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565810572","React Native Developer","Wilson Wings Pvt Ltd","Bengaluru","2024-12-15",False,"",210
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565702822","Product Engineer","Qualwebs","India","2024-12-15",False,"",211
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848315","Lead Software Engineer - React/ Javascript","JPMorganChase","Bengaluru","2024-12-15",False,"",212
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565513170","Senior GoLang Developer - Go | REST | Kubernetes | Docker | 4-8+ years","SAP","Bengaluru","2024-12-15",False,"",213
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565513186","Senior Developer - GO Lang, Kubernetes, Core Infrastructure Team - Gardener (BTP)","SAP","Bengaluru","2024-12-15",False,"",214
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565437399","Salesforce B2C Commerce Architect_306912","NTT DATA","Bengaluru","2024-12-15",False,"",215
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565515591","Mobile Data Engineering Manager","OneAdvanced","Bengaluru","2024-12-15",False,"",216
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564736920","Backend Developer (Java)","DataArt","Bengaluru","2024-12-14",False,"",217
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564242225","Application Developer","Accenture","Bengaluru","2024-12-14",False,"",218
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564821089","ASP.NET Developer","Technoforte Software Pvt. Ltd","Bengaluru","2024-12-14",False,"",219
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564518567","Junior Flutter Developer","Live fx","Bengaluru","2024-12-14",False,"",220
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564569076","Frontend Developer","ZapCom Solutions","Bengaluru","2024-12-14",False,"",221
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564737120","Java Developer","Talentcruise Technologies","Bengaluru","2024-12-14",False,"",222
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564596446","Web Developer","Sunrise Digital Media","Bengaluru","2024-12-14",False,"",223
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564332952","Application Developer","acesoftlabs","Bengaluru","2024-12-14",False,"",224
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564805901","Java application developer","Elfonze Technologies","Bengaluru","2024-12-14",False,"",225
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564494796","SQL Developer","Anvaya Info Solutions Pvt. Ltd","India","2024-12-14",False,"",226
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564522900","Frontend Developer","Weir Group","Bengaluru","2024-12-14",False,"",227
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564522933","Backend Developer","Weir Group","Bengaluru","2024-12-14",False,"",228
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564710503","Software Engineer II","Microsoft","Bengaluru","2024-12-14",False,"",229
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565029357","Application Developer","Fluke","Bengaluru","2024-12-14",False,"",230
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564687377","Software Engineer III Java AWS Developer","JPMorganChase","Bengaluru","2024-12-14",False,"",231
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564915487","Job Description - Python Developer","Quantumzyme","Bengaluru","2024-12-14",False,"",232
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564757895","Senior Java Backend Developer","Soltia AB","Bengaluru","2024-12-14",False,"",233
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564618389","ServiceNow Developer(HRSD & CSM Application)","Flipped.ai","India","2024-12-14",False,"",234
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564860348","Full Stack Developer","Dtrayfintech. Media","India","2024-12-14",False,"",235
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564699385","Golang Developer","Admin Looks","Bengaluru","2024-12-14",False,"",236
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564169818","Senior FLEXCUBE Reports Developer with Qlik Sense","Oracle","Bengaluru","2024-12-14",False,"",237
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564873525","Senior Backend Developer","Namochetana India Private limited","India","2024-12-14",False,"",238
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564414934","Full Stack Developer","KrypC Technologies Pvt Ltd","India","2024-12-14",False,"",239
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564104293","DET-Python Developer-GDSN","EY","Bengaluru","2024-12-14",False,"",240
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564710525","Software Engineering M5","Microsoft","Bengaluru","2024-12-14",False,"",241
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564903199","Applied Scientist","Oracle","Bengaluru","2024-12-14",False,"",242
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565071519","Senior Software Engineer (Backend)","Wego","Bengaluru","2024-12-14",False,"",243
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564903282","Software Developer","Oracle","Bengaluru","2024-12-14",False,"",244
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564674081","Sr. React JS Developer","OpenTurf Technologies Pvt Ltd","India","2024-12-14",False,"",245
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564565296","Dot Net Developer","Quick Recruit","Bengaluru","2024-12-14",False,"",246
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563953567","Learning & Development Specialist","Koch Global Services","Bengaluru","2024-12-14",False,"",247
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564510665","Java Full Stack Developer","Aliqan Technologies","Bengaluru","2024-12-14",False,"",248
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564764315","Full Stack Developer Team Lead","AGILETS PRIVATE LIMITED","Bengaluru","2024-12-14",False,"",249
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564802315","Golang or Java","Trigent Software, Inc","Bengaluru","2024-12-14",False,"",250
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568737","Sr.Frontend Developer","ZapCom Solutions","Bengaluru","2024-12-14",False,"",251
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564919630","Full Stack Dot Net Developer","Talentcruise Technologies","Bengaluru","2024-12-14",False,"",252
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564788875","FA&A .Net Developer","3M","Bengaluru","2024-12-14",False,"",253
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564733957","Software Engineer","QualityKiosk Technologies","Bengaluru","2024-12-14",False,"",254
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564321925","Full Stack Developer-ACI-P1","Atlas Systems","Bengaluru","2024-12-14",False,"",255
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568770","Senior Dot Net Developer","ZapCom Solutions","Bengaluru","2024-12-14",False,"",256
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564705875","RMC Sen. Backend Engineer","CCR (Carrier Commercial Refrigeration)","Bengaluru","2024-12-14",False,"",257
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563971913","Senior Python/Golang Development Engineer","Ericsson","Bengaluru","2024-12-14",False,"",258
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565032536","Salesforce Development Engineer 4","RingCentral","Bengaluru","2024-12-14",False,"",259
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564901447","Senior Salesforce Developer","Virtusa","Bengaluru","2024-12-14",False,"",260
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564920636","Software Engr II","Honeywell","Bengaluru","2024-12-14",False,"",261
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568759","Dot Net Developer","ZapCom Solutions","India","2024-12-14",False,"",262
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564569060","Engineering Manager","ZapCom Solutions","Bengaluru","2024-12-14",False,"",263
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563971912","Software Development Engineer","Ericsson","Bengaluru","2024-12-14",False,"",264
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564901438","SF Developer","Virtusa","Bengaluru","2024-12-14",False,"",265
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564815189","Dot Net Developer","WARPE","Bengaluru","2024-12-14",False,"",266
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564947997","Web Solutions Engineer, Support Tooling and Automation","Google","Bengaluru","2024-12-14",False,"",267
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568695","Solutions Architect","ZapCom Solutions","Bengaluru","2024-12-14",False,"",268
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565041671","Senior .Net Developer","Soltia AB","Bengaluru","2024-12-14",False,"",269
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564321921","Senior .Net Developer-PCAP-VS-P1","Atlas Systems","Bengaluru","2024-12-14",False,"",270
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564904469","Senior Java Full Stack Developer","KTH HR Consulting zone","India","2024-12-14",False,"",271
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564747359","Site Reliability Engineer III (K8, AWS, Observability)","Vonage","Bengaluru","2024-12-14",False,"",272
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568172","Senior Application Developer - Web","Fluke","Bengaluru","2024-12-14",False,"",273
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565118235","Engineering Manager, Digital Experiences & APIs","Levi Strauss & Co.","Bengaluru","2024-12-14",False,"",274
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564104529","Full Stack Developer -Senior","EY","Bengaluru","2024-12-14",False,"",275
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564645446","Lead Software Engineer","DocuSign","Bengaluru","2024-12-14",False,"",276
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565043469","Senior Software Engineer","Verint Systems Inc.","Bengaluru","2024-12-14",False,"",277
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564802313","Senior Software Engineer","Trigent Software, Inc","Bengaluru","2024-12-14",False,"",278
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564695132","Salesforce Developer_Digital Solution Cnslt. Sr. Consultant","NTT DATA","Bengaluru","2024-12-14",False,"",279
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564914364","Full Stack Web Development Mentor","BrightGeeks Technologies Pvt. Ltd.","India","2024-12-14",False,"",280
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564644977","Principal Software Engineer","DocuSign","Bengaluru","2024-12-14",False,"",281
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564638037","Senior Java Developer Lead - Assistant Vice President","State Street Corporation","Bengaluru","2024-12-14",False,"",282
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564992741","JAVA Dev Lead/Manager - Vice President - Software Engineering - Bengaluru","Morgan Stanley","Bengaluru","2024-12-14",False,"",283
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564104400","DE-Senior Flutter Developer-GDSN02","EY","Bengaluru","2024-12-14",False,"",284
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563739190","Java Developer (Remote)","Minutes to Seconds Pty Ltd","Bengaluru","2024-12-13",False,"",285
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563639056","Java Developer","Ericsson","Bengaluru","2024-12-13",False,"",286
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563609571","SQL developer (MT RM 2807)","Source-right","Bengaluru","2024-12-13",False,"",287
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563270877","Java Developer","Zipigo technosoft pvt ltd","Bengaluru","2024-12-13",False,"",288
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563508308","Java Developer","Whitefield Careers","Bengaluru","2024-12-13",False,"",289
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562811066","Backend Developer","Inmogic Technologies Pvt Ltd","Bengaluru","2024-12-13",False,"",290
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562778796","Java Back end","QuEST Global","Bengaluru","2024-12-13",False,"",291
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563563302","Android Developer","Virtusa","Bengaluru","2024-12-13",False,"",292
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562817347","Python Developer","Ericsson","Bengaluru","2024-12-13",False,"",293
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562585807","Python/Django Developer","AB first","Bengaluru","2024-12-13",False,"",294
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563738485","iOS Developer","Fospe","Bengaluru","2024-12-13",False,"",295
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563520759","Java Developer - 3-7 years","SAP","Bengaluru","2024-12-13",False,"",296
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563589982","Software Engineer","Informatica","Bengaluru","2024-12-13",False,"",297
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562563401","Senior Android Developer","A2Z Hire","Bengaluru","2024-12-13",False,"",298
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562310883","Engineer- Backend (Java)","PayPal","Bengaluru","2024-12-13",False,"",299
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561803855","AEM Frontend Developer","Labcorp","Bengaluru","2024-12-13",False,"",300
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563566913","Dot Net Developer","Zeta micron Technologies","Bengaluru","2024-12-13",False,"",301
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665517","Full Stack Developer - 3-6 years","SAP","Bengaluru","2024-12-13",False,"",302
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563541519","Lead Developer","Epsilon","Bengaluru","2024-12-13",False,"",303
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665458","Java Full Stack Developer (4 to 8 years)","SAP","Bengaluru","2024-12-13",False,"",304
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562690373","Sr. Dot Net Developer","Taru IT Solutions","India","2024-12-13",False,"",305
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563609607","Java developer + AWS (MT RM 2805)","Source-right","Bengaluru","2024-12-13",False,"",306
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562007618","UI Engineer II- Angular, RxJS and TypeScript","FICO","Bengaluru","2024-12-13",False,"",307
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563554565","Senior Software Engineer","ABB","Bengaluru","2024-12-13",False,"",308
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563657670","Software Dev Engineer (TEMP)","ADCI - Karnataka","Bengaluru","2024-12-13",False,"",309
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562697566","Full Stack Java Developer","futurerole.inc","India","2024-12-13",False,"",310
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563110508","Sr Java","Admin Looks","Bengaluru","2024-12-13",False,"",311
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563541517","Senior Developer","Epsilon","Bengaluru","2024-12-13",False,"",312
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561856203","Director, Software Engineering","Intuit","Bengaluru","2024-12-13",False,"",313
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563832196","ReactJS Lead","Codevian Technologies","Bengaluru","2024-12-13",False,"",314
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562120071","Software Development Engineer, Amazon Pay Transaction Processing","ADCI - Karnataka","Bengaluru","2024-12-13",False,"",315
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563540827","Fullstack Software Engineer (GoLang and Javascript)","Verve","Bengaluru","2024-12-13",False,"",316
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562617798","Engineering Manager","Calix","Bengaluru","2024-12-13",False,"",317
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562007356","Lead UI - Frontend Developer - Angular, RxJS, and State Management Expert","FICO","Bengaluru","2024-12-13",False,"",318
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563274615","Senior Application Support Analyst","Q2ebanking","Bengaluru","2024-12-13",False,"",319
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563460573","Enphase Store - Senior Software Engineer - Ecommerce (Fullstack)","Enphase Energy","Bengaluru","2024-12-13",False,"",320
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563070023","Software Engineer Senior consultant I","Allstate","Bengaluru","2024-12-13",False,"",321
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563520769","Development Manager - Central Business Configuration | Node.JS, TypeScript, Golang, K8S","SAP","Bengaluru","2024-12-13",False,"",322
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562631372","Senior Oracle APEX Developer","Fluke","Bengaluru","2024-12-13",False,"",323
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562453864","Software Engineer Typescript (Frontend Mid/Senior)","Maropost","Bengaluru","2024-12-13",False,"",324
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563608355","Senior Software Engineer","Pratra Travel Technologies Pvt Ltd","Bengaluru","2024-12-13",False,"",325
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563543575","Sr. Product Engineer","kreatorverse","India","2024-12-13",False,"",326
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562007478","Lead UI Engineer-Angular, RxJS, and State Management Expert","FICO","Bengaluru","2024-12-13",False,"",327
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563524127","Senior Full Stack Developer (.NET, Angular)","BearingPoint","Bengaluru","2024-12-13",False,"",328
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560324461","Software Engineer Typescript-(Backend Junior/Mid)","Maropost","Bengaluru","2024-12-12",False,"",329
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560858358","Backend Developer Intern","Winuall","Bengaluru","2024-12-12",False,"",330
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560205805","Java Backend Developer","Luxoft","Bengaluru","2024-12-12",False,"",331
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560199882","Laravel Developer - Backend Developer","Nexevo Technologies","Bengaluru","2024-12-12",False,"",332
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561029831","Backend Developer Nestjs","BNET Insurance Brokers Pvt Ltd","Bengaluru","2024-12-12",False,"",333
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561116365","API Developer","Increasingly","Bengaluru","2024-12-12",False,"",334
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561749101","Frontend Developer (React)","Luxoft","Bengaluru","2024-12-12",False,"",335
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560591433","Software development - immediate joiners","Sygnext","Bengaluru","2024-12-12",False,"",336
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561326273","Staff Backend developer","Enphase Energy","Bengaluru","2024-12-12",False,"",337
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560800295","Angular Developer","TECHVEGAS LLP.","India","2024-12-12",False,"",338
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561039544","Front End Developer","BNET Insurance Brokers Pvt Ltd","Bengaluru","2024-12-12",False,"",339
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561635460","Java Developer","Manasio Pvt Ltd","India","2024-12-12",False,"",340
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561713156","Senior Backend Developer","Neetable","Bengaluru","2024-12-12",False,"",341
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561361253","Python Developer","Orange Mantra","Bengaluru","2024-12-12",False,"",342
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560205769","AI Prompt Developer","Luxoft","Bengaluru","2024-12-12",False,"",343
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560931678","Internship - web developer","Magnum Technologies Services","India","2024-12-12",False,"",344
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560359400","Developer Advocate, Backend (Java), AWS Developer Experience","AWS India - Karnataka","Bengaluru","2024-12-12",False,"",345
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561752651","Java Sr Developer","Tarento Group","Bengaluru","2024-12-12",False,"",346
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561383944","SDE-3 Backend Developer","jai kisan","Bengaluru","2024-12-12",False,"",347
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560252570","Developer - Web Application","Koch Global Services","Bengaluru","2024-12-12",False,"",348
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561166859","Application Developer III","Teva Pharmaceuticals","Bengaluru","2024-12-12",False,"",349
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561137409","Java Developer","BizViz Technologies Pvt Ltd","Bengaluru","2024-12-12",False,"",350
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561641299","Node.js Developer (Automation Developer)","Admin Looks","Bengaluru","2024-12-12",False,"",351
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561422953","Urgent Requirement Full Stack Developer Role","ABFirst Pvt.Ltd","Bengaluru","2024-12-12",False,"",352
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561306563","Full Stack Developer","SIFF Ventures Pvt Ltd (SSLC@PARIKSHE)","India","2024-12-12",False,"",353
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561464373","Angular-Lead Front-end Developer","CGI","Bengaluru","2024-12-12",False,"",354
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561291560","Team Lead - Node js","Ordrio Technologies Pvt Ltd.","Bengaluru","2024-12-12",False,"",355
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560692390","MongoDB Aggregation Query Developer","Edu-tive Pvt Limited","Bengaluru","2024-12-12",False,"",356
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561326268","Backend Developer","Enphase Energy","Bengaluru","2024-12-12",False,"",357
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560751202","Software Engineer I","BetterWorks","Bengaluru","2024-12-12",False,"",358
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561137670","Java Developer","Techno-Facts Solutions Private Limited","India","2024-12-12",False,"",359
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561464429","Delphi Developer - 3+ Years","CGI","Bengaluru","2024-12-12",False,"",360
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560868189","Full Stack Web Developer","Supercode","Bengaluru","2024-12-12",False,"",361
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561271481",".NET MVC Developer (Standard)","Infogain","Bengaluru","2024-12-12",False,"",362
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561326267","Sr. Backend resource","Enphase Energy","Bengaluru","2024-12-12",False,"",363
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560271752","Senior Progress 4GL Developer","CGI","Bengaluru","2024-12-12",False,"",364
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561217491","React Native Developer","Algogi","India","2024-12-12",False,"",365
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561185367","Senior Development Engineer- Backend- Bangalore","Findem","Bengaluru","2024-12-12",False,"",366
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561636518","Software Engineer Java","HealthEdge","Bengaluru","2024-12-12",False,"",367
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560854422","Sr. Java Developer","Hashone Careers","Bengaluru","2024-12-12",False,"",368
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561443218","Lead - Full Stack Developer","Kasplo","Bengaluru","2024-12-12",False,"",369
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561316049","Dot Net Developer","Technology Next","Bengaluru","2024-12-12",False,"",370
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561310231","Java Developer","PradeepIT Consulting Services","Bengaluru","2024-12-12",False,"",371
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560271616","Senior QA","CGI","Bengaluru","2024-12-12",False,"",372
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561202196","Sr Full Stack Developer","kreatorverse","Bengaluru","2024-12-12",False,"",373
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561198130","Full Stack Developer - React Native","Algogi","India","2024-12-12",False,"",374
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561172539","React Native Developer","Ciya Technologies","Bengaluru","2024-12-12",False,"",375
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560947212","Flutter Developer","Appstronauts IT Solutions Pvt.Ltd","India","2024-12-12",False,"",376
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560798502","Python Full Stack Developer","Aeolus Aero Tech Private Limited","India","2024-12-12",False,"",377
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560195324","Developer III - Software Engineering","UST Global","Bengaluru","2024-12-12",False,"",378
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561122357","Mobile Developer","Gnapi Technologies Private Limited","India","2024-12-12",False,"",379
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561198250","Technical Architect","Gnapi Technologies Private Limited","India","2024-12-12",False,"",380
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561702596","Senior Automation Developer (Python/Powershell/C#/Javascript)","FIS Global","Bengaluru","2024-12-12",False,"",381
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561412843","Full Stack Developer - Manager","State Street","Bengaluru","2024-12-12",False,"",382
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561297016","Dot Net Developer","Brickwork India","India","2024-12-12",False,"",383
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561748795","React UI Developer","NTT DATA","Bengaluru","2024-12-12",False,"",384
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560195449",".NET Developer-Lead I - Software Engineering","UST Global","Bengaluru","2024-12-12",False,"",385
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560437850","Salesforce Developer","NeuraFlash","Bengaluru","2024-12-12",False,"",386
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561335959","Android Developer","Luxoft","Bengaluru","2024-12-12",False,"",387
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561118801","Manager, Software Engineering","Curriculum Associates","Bengaluru","2024-12-12",False,"",388
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561273553","Principal Consultant - Python Developer","Genpact","Bengaluru","2024-12-12",False,"",389
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561639021","Full Stack (.Net + Python)","Eduplex services private limited","Bengaluru","2024-12-12",False,"",390
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561351263","Senior Manager | BE Golang | Bengaluru | Engineering","Deloitte","Bengaluru","2024-12-12",False,"",391
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561047052","VB.NET & Postgres","QuEST Global","Bengaluru","2024-12-12",False,"",392
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561306334","Staff Engineer - Platform","Orion Consulting","Bengaluru","2024-12-12",False,"",393
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561771286","Design Engineer Professional","BT","Bengaluru","2024-12-12",False,"",394
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561313299","Software Engineer (.NET & Nuxt/React)","Maersk","Bengaluru","2024-12-12",False,"",395
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561632041","Sr Site Reliability Software Engineer","Vonage","Bengaluru","2024-12-12",False,"",396
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561048460","Senior Engineer, AEM (India)","Code and Theory","Bengaluru","2024-12-12",False,"",397
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561569110","Data & Analytics App Lead Engineer","Solventum","Bengaluru","2024-12-12",False,"",398
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560359462","Software Development Engineer, Amazon Pay","ADCI - Karnataka","Bengaluru","2024-12-12",False,"",399
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561350850","Technical Manager - Golang & Java","Encora","Bengaluru","2024-12-12",False,"",400
+"https://www.linkedin.com/jobs/view/4099757969","Backend Engineer","TIFIN","Bengaluru, Karnataka, India","2024-12-13","","",401
+"https://www.linkedin.com/jobs/view/4096860595","Assistant Manager -Full Stack Python Developer","KPMG","Bangalore Urban, Karnataka, India","2024-12-13","","",402
+"https://www.linkedin.com/jobs/view/4099761539","Java Developer","Infrrd","Bengaluru, Karnataka, India","2024-12-13","","",403
+"https://www.linkedin.com/jobs/view/4097227092","Back End Developer | SDE-1","Proactive For Her","Bengaluru, Karnataka, India","2024-12-12","","",404
+"https://www.linkedin.com/jobs/view/3631867155","Fullstack Developer","Fractal","Bengaluru, Karnataka, India","2024-12-12","","",405
+"https://www.linkedin.com/jobs/view/4095570967","Associate Engineer – Full Stack","PayPal","Bengaluru, Karnataka, India","2024-12-12","","",406
+"https://www.linkedin.com/jobs/view/4097317952","React JS Developer","LTIMindtree","Bangalore Urban, Karnataka, India","2024-12-12","","",407
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565848334","Software Engineer III - Java Full Stack Developer","JPMorganChase","Bengaluru","2024-12-15",False,"",408
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565702858","Java Full Stack Developer","MEEDEN LABS PRIVATE LIMITED","Bengaluru","2024-12-15",False,"",409
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565364342","Full Stack Developer","Arting Digital Private Limited","Bengaluru","2024-12-15",False,"",410
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565513238","Developer Associate","SAP","Bengaluru","2024-12-15",False,"",411
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565513125","Associate ABAP Developer","SAP","Bengaluru","2024-12-15",False,"",412
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565702822","Product Engineer","Qualwebs","India","2024-12-15",False,"",413
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565513050","Data Scientist","SAP","Bengaluru","2024-12-15",False,"",414
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565602961","Data Cloud Consultant, Google Cloud Professional Services","Google","Bengaluru","2024-12-15",False,"",415
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565801649","Software Development Engineer II , Advertising Trust","ADCI - Haryana","Bengaluru","2024-12-15",False,"",416
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565513165","Senior ABAP Developer","SAP","Bengaluru","2024-12-15",False,"",417
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564841611","Full Stack Developer","NuFolks","Bengaluru","2024-12-14",False,"",418
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564860348","Full Stack Developer","Dtrayfintech. Media","India","2024-12-14",False,"",419
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564864453","Full Stack Developer","HeadPro Consulting","Bengaluru","2024-12-14",False,"",420
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563970257","Java full stack Developer","CGI","Bengaluru","2024-12-14",False,"",421
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563946751","Nodejs/Java full stack developer","Hirewand","Bengaluru","2024-12-14",False,"",422
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564414934","Full Stack Developer","KrypC Technologies Pvt Ltd","India","2024-12-14",False,"",423
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564764315","Full Stack Developer Team Lead","AGILETS PRIVATE LIMITED","Bengaluru","2024-12-14",False,"",424
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564569076","Frontend Developer","ZapCom Solutions","Bengaluru","2024-12-14",False,"",425
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564321925","Full Stack Developer-ACI-P1","Atlas Systems","Bengaluru","2024-12-14",False,"",426
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564510665","Java Full Stack Developer","Aliqan Technologies","Bengaluru","2024-12-14",False,"",427
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564710503","Software Engineer II","Microsoft","Bengaluru","2024-12-14",False,"",428
+"https://www.glassdoor.co.in/job-listing/j?jl=1009174923444","Application Developer","Accenture","Bengaluru","2024-12-14",False,"",429
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564919630","Full Stack Dot Net Developer","Talentcruise Technologies","Bengaluru","2024-12-14",False,"",430
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564169786","Site Reliability Developer","Oracle","Bengaluru","2024-12-14",False,"",431
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564418830","UI Designer","KrypC Technologies Pvt Ltd","India","2024-12-14",False,"",432
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564104293","DET-Python Developer-GDSN","EY","Bengaluru","2024-12-14",False,"",433
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568697","iOS Developer","ZapCom Solutions","Bengaluru","2024-12-14",False,"",434
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568737","Sr.Frontend Developer","ZapCom Solutions","Bengaluru","2024-12-14",False,"",435
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564104529","Full Stack Developer -Senior","EY","Bengaluru","2024-12-14",False,"",436
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564933768","Software Developer (m/f/d)","Cuculus GmbH","Bengaluru","2024-12-14",False,"",437
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564904469","Senior Java Full Stack Developer","KTH HR Consulting zone","India","2024-12-14",False,"",438
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564914364","Full Stack Web Development Mentor","BrightGeeks Technologies Pvt. Ltd.","India","2024-12-14",False,"",439
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565123464","Sr. Java Full Stack Developer","Cognizant","Bengaluru","2024-12-14",False,"",440
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564920636","Software Engr II","Honeywell","Bengaluru","2024-12-14",False,"",441
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564245097","Software Engineer III, Infrastructure, Google Ads","Google","Bengaluru","2024-12-14",False,"",442
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568770","Senior Dot Net Developer","ZapCom Solutions","Bengaluru","2024-12-14",False,"",443
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568759","Dot Net Developer","ZapCom Solutions","India","2024-12-14",False,"",444
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564569060","Engineering Manager","ZapCom Solutions","Bengaluru","2024-12-14",False,"",445
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564333320","Senior Software Architect (5B)","Intendminds Solutions","Bengaluru","2024-12-14",False,"",446
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563971912","Software Development Engineer","Ericsson","Bengaluru","2024-12-14",False,"",447
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564568695","Solutions Architect","ZapCom Solutions","Bengaluru","2024-12-14",False,"",448
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563971913","Senior Python/Golang Development Engineer","Ericsson","Bengaluru","2024-12-14",False,"",449
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565032536","Salesforce Development Engineer 4","RingCentral","Bengaluru","2024-12-14",False,"",450
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564245133","Software Engineer III, Front End, Google Cloud","Google","Bengaluru","2024-12-14",False,"",451
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564947997","Web Solutions Engineer, Support Tooling and Automation","Google","Bengaluru","2024-12-14",False,"",452
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564815189","Dot Net Developer","WARPE","Bengaluru","2024-12-14",False,"",453
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565024973","Technical Lead-App Development","BirlaSoft","Bengaluru","2024-12-14",False,"",454
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564321921","Senior .Net Developer-PCAP-VS-P1","Atlas Systems","Bengaluru","2024-12-14",False,"",455
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564645446","Lead Software Engineer","DocuSign","Bengaluru","2024-12-14",False,"",456
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564104265","TTT-SAP- Fiori-Advanced Analyst","EY","Bengaluru","2024-12-14",False,"",457
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565053204","Technical Lead","Infinite Computer Solutions Ltd.","Bengaluru","2024-12-14",False,"",458
+"https://www.glassdoor.co.in/job-listing/j?jl=1009564644977","Principal Software Engineer","DocuSign","Bengaluru","2024-12-14",False,"",459
+"https://www.glassdoor.co.in/job-listing/j?jl=1009565133832","SITE RELIABILITY ENGINEER II, ITC","Nike","","2024-12-14",True,"",460
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562706192","Full Stack Developer","futurerole.inc","Bengaluru","2024-12-13",False,"",461
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563001131","Full Stack Developer","Tekfocus Minds LLC","Bengaluru","2024-12-13",False,"",462
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562577927","Java Full Stack Developer","AB first","Bengaluru","2024-12-13",False,"",463
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562776859","Manager Development","Amadeus","Bengaluru","2024-12-13",False,"",464
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563508308","Java Developer","Whitefield Careers","Bengaluru","2024-12-13",False,"",465
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665517","Full Stack Developer - 3-6 years","SAP","Bengaluru","2024-12-13",False,"",466
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665458","Java Full Stack Developer (4 to 8 years)","SAP","Bengaluru","2024-12-13",False,"",467
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665586","Full Stack Developer & DevOps Engineer -Data Privacy and Protection (DPP)","SAP","Bengaluru","2024-12-13",False,"",468
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562697566","Full Stack Java Developer","futurerole.inc","India","2024-12-13",False,"",469
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562594028","React Native Developer","Hutech Solutions","India","2024-12-13",False,"",470
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562712295","Java Full Stack Developer","UST Global","Bengaluru","2024-12-13",False,"",471
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665599","Developer Associate (iOS Developer) (1-3 Years)","SAP","Bengaluru","2024-12-13",False,"",472
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563589982","Software Engineer","Informatica","Bengaluru","2024-12-13",False,"",473
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563634434","Software Engineer, Kernel and Firmware, Silicon","Google","Bengaluru","2024-12-13",False,"",474
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562402654","Software Engineer II, Mobile","Google","Bengaluru","2024-12-13",False,"",475
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563524127","Senior Full Stack Developer (.NET, Angular)","BearingPoint","Bengaluru","2024-12-13",False,"",476
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562321623","Senior Software Developer","Oracle","Bengaluru","2024-12-13",False,"",477
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563520782","DevOps Engineer","SAP","Bengaluru","2024-12-13",False,"",478
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562075857","Software Development Engineer II - Android","AiDash","Bengaluru","2024-12-13",False,"",479
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562120071","Software Development Engineer, Amazon Pay Transaction Processing","ADCI - Karnataka","Bengaluru","2024-12-13",False,"",480
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665543","Fullstack Developer - Java / Javascript","SAP","Bengaluru","2024-12-13",False,"",481
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563520758","Senior Developer - Java, Node.js, or JavaScript","SAP","Bengaluru","2024-12-13",False,"",482
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562707505","USI-EH25-Consulting-S&A-AI & Data-Second Innings","Deloitte","Bengaluru","2024-12-13",False,"",483
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665463","Senior Developer","SAP","Bengaluru","2024-12-13",False,"",484
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665553","Development Architect - ABAP","SAP","Bengaluru","2024-12-13",False,"",485
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562665318","Full Stack Developer for API Platform @ SAP Integration Suite","SAP","Bengaluru","2024-12-13",False,"",486
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563608355","Senior Software Engineer","Pratra Travel Technologies Pvt Ltd","Bengaluru","2024-12-13",False,"",487
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563357194","Azure Cloud Devops Engineer","Rapyder Cloud Solutions","Bengaluru","2024-12-13",False,"",488
+"https://www.glassdoor.co.in/job-listing/j?jl=1009563520765","Senior Technical Specialist","SAP","Bengaluru","2024-12-13",False,"",489
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562248356","Senior Software Engineer 1","PowerSchool Group LLC","Bengaluru","2024-12-13",False,"",490
+"https://www.glassdoor.co.in/job-listing/j?jl=1009562120106","Software Development Engineer II, AWS Payments","ADCI - Karnataka","Bengaluru","2024-12-13",False,"",491
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561351302","Assistant Manager | .Net Full Stack | Bengaluru | Tax Technology Consulting","Deloitte","Bengaluru","2024-12-12",False,"",492
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561077946","Junior Full Stack Developer(Next.js / Node.js)","Learners Point Academy","India","2024-12-12",False,"",493
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561443218","Lead - Full Stack Developer","Kasplo","Bengaluru","2024-12-12",False,"",494
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560591433","Software development - immediate joiners","Sygnext","Bengaluru","2024-12-12",False,"",495
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561422953","Urgent Requirement Full Stack Developer Role","ABFirst Pvt.Ltd","Bengaluru","2024-12-12",False,"",496
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561306563","Full Stack Developer","SIFF Ventures Pvt Ltd (SSLC@PARIKSHE)","India","2024-12-12",False,"",497
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561198130","Full Stack Developer - React Native","Algogi","India","2024-12-12",False,"",498
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560798502","Python Full Stack Developer","Aeolus Aero Tech Private Limited","India","2024-12-12",False,"",499
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561202196","Sr Full Stack Developer","kreatorverse","Bengaluru","2024-12-12",False,"",500
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560868189","Full Stack Web Developer","Supercode","Bengaluru","2024-12-12",False,"",501
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561351273","Deputy Manager | .Net Full Stack | Bengaluru | Tax Technology Consulting","Deloitte","Bengaluru","2024-12-12",False,"",502
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561639021","Full Stack (.Net + Python)","Eduplex services private limited","Bengaluru","2024-12-12",False,"",503
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561412843","Full Stack Developer - Manager","State Street","Bengaluru","2024-12-12",False,"",504
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561217491","React Native Developer","Algogi","India","2024-12-12",False,"",505
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561291560","Team Lead - Node js","Ordrio Technologies Pvt Ltd.","Bengaluru","2024-12-12",False,"",506
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560205805","Java Backend Developer","Luxoft","Bengaluru","2024-12-12",False,"",507
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561326273","Staff Backend developer","Enphase Energy","Bengaluru","2024-12-12",False,"",508
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560751202","Software Engineer I","BetterWorks","Bengaluru","2024-12-12",False,"",509
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561159958","React + Angular JS Developer","Blazeclan Technologies","Bengaluru","2024-12-12",False,"",510
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561401900","Java JBPM Developer","Virtusa","Bengaluru","2024-12-12",False,"",511
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561198250","Technical Architect","Gnapi Technologies Private Limited","India","2024-12-12",False,"",512
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561351263","Senior Manager | BE Golang | Bengaluru | Engineering","Deloitte","Bengaluru","2024-12-12",False,"",513
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561326277","Staff Front-end Design (Drupal)","Enphase Energy","Bengaluru","2024-12-12",False,"",514
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561118801","Manager, Software Engineering","Curriculum Associates","Bengaluru","2024-12-12",False,"",515
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561766848","FullStack Software Engineer","Simreka","Bengaluru","2024-12-12",False,"",516
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561326268","Backend Developer","Enphase Energy","Bengaluru","2024-12-12",False,"",517
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561326267","Sr. Backend resource","Enphase Energy","Bengaluru","2024-12-12",False,"",518
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561306334","Staff Engineer - Platform","Orion Consulting","Bengaluru","2024-12-12",False,"",519
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561043484","Software Development Engineer, E-reader products","ADCI - Karnataka","Bengaluru","2024-12-12",False,"",520
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561332896","Application Architect","Wipro Limited","Bengaluru","2024-12-12",False,"",521
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561326265","Front-end Design (Drupal)","Enphase Energy","Bengaluru","2024-12-12",False,"",522
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561326266","Senior Front-end Design (Drupal)","Enphase Energy","Bengaluru","2024-12-12",False,"",523
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561365588","Senior Full Stack Developer/ Sr R&D Engineer","ABB","Bengaluru","2024-12-12",False,"",524
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560795546","Team Lead/Senior Software Engineer","Aeolus Aero Tech Private Limited","India","2024-12-12",False,"",525
+"https://www.glassdoor.co.in/job-listing/j?jl=1009560359462","Software Development Engineer, Amazon Pay","ADCI - Karnataka","Bengaluru","2024-12-12",False,"",526
+"https://www.glassdoor.co.in/job-listing/j?jl=1009561249211","Senior Software Engineer","Indegene","Bengaluru","2024-12-12",False,"",527
+"https://www.linkedin.com/jobs/view/4096860595","Assistant Manager -Full Stack Python Developer","KPMG","Bangalore Urban, Karnataka, India","2024-12-13","","",528
+"https://www.linkedin.com/jobs/view/4099724291","Back End Developer","Kotak Mahindra Bank","Bangalore Urban, Karnataka, India","2024-12-13","","",529
+"https://www.linkedin.com/jobs/view/4096697782","Software Development Engineer 1 (SDE-1)","Publicis Sapient","Bengaluru, Karnataka, India","2024-12-13","","",530
+"https://www.linkedin.com/jobs/view/4096667083","Software Engineer III, Front End, Google Cloud","Google","Bengaluru, Karnataka, India","2024-12-13","","",531
+"https://www.linkedin.com/jobs/view/4099721358","Software Engineer II","Microsoft","Bengaluru, Karnataka, India","2024-12-13","","",532
+"https://www.linkedin.com/jobs/view/4099759615","Full Stack Developer","SciSpace","Bengaluru, Karnataka, India","2024-12-13","","",533
+"https://www.linkedin.com/jobs/view/4079694169","Staff Software Engineer, Full Stack, Google Ads","Google","Bengaluru, Karnataka, India","2024-12-13","","",534
+"https://www.linkedin.com/jobs/view/4096667081","Software Engineer III, Infrastructure, Google Ads","Google","Bengaluru, Karnataka, India","2024-12-13","","",535
+"https://www.linkedin.com/jobs/view/4085155512","Full Stack Developer(Node.JS, Angular)","Motorola Solutions","Bengaluru, Karnataka, India","2024-12-13","","",536
+"https://www.linkedin.com/jobs/view/4099692132","Full Stack Software Engineer","NetSfere","Bengaluru, Karnataka, India","2024-12-13","","",537
+"https://www.linkedin.com/jobs/view/4064431532","Full Stack Engineer","Dialpad","Bengaluru, Karnataka, India","2024-12-13","","",538
+"https://www.linkedin.com/jobs/view/4099774675","Lead Software Development Engineer","Razorpay","Bengaluru, Karnataka, India","2024-12-13","","",539
+"https://www.linkedin.com/jobs/view/4081872202","Experienced Software Engineer Java / Python (Full Stack or Back End)","JPMorganChase","Bengaluru, Karnataka, India","2024-12-13","","",540
+"https://www.linkedin.com/jobs/view/4081808404","Software Engineer II","Microsoft","Bengaluru, Karnataka, India","2024-12-12","","",541
+"https://www.linkedin.com/jobs/view/4075475176","Full Stack Developer","Brainlabs","Bengaluru, Karnataka, India","2024-12-12","","",542
+"https://www.linkedin.com/jobs/view/3873350074","Full Stack Developer( React.js + Python )","Fractal","Bengaluru, Karnataka, India","2024-12-12","","",543
+"https://www.linkedin.com/jobs/view/4079194708","Software Engineer 2","Granicus","Bengaluru, Karnataka, India","2024-12-12","","",544
+"https://www.linkedin.com/jobs/view/4097234029","Full stack Developer","CN Solutions","Bengaluru, Karnataka, India","2024-12-12","","",545
+"https://www.linkedin.com/jobs/view/4097329104","Software Engineer","Wipro","Bengaluru, Karnataka, India","2024-12-12","","",546
+"https://www.linkedin.com/jobs/view/4097277098","Software Engineer II, Mobile","Google","Bengaluru, Karnataka, India","2024-12-12","","",547
+"https://www.linkedin.com/jobs/view/4097223273","Full Stack Developer","Kalvium","Bengaluru, Karnataka, India","2024-12-12","","",548
+"https://www.linkedin.com/jobs/view/4097261896","Full Stack Developer","Avantee","Bangalore Urban, Karnataka, India","2024-12-12","","",549
+"https://www.linkedin.com/jobs/view/4097235266","Full stack Developer","CN Solutions","Bengaluru, Karnataka, India","2024-12-12","","",550
+"https://www.linkedin.com/jobs/view/4097256394","Full Stack Developer","Colan Infotech Private Limited","Bengaluru East, Karnataka, India","2024-12-12","","",551
+"https://www.linkedin.com/jobs/view/3964259507","Full stack Developer (Java+React)","Fractal","Bengaluru, Karnataka, India","2024-12-12","","",552
+"https://www.linkedin.com/jobs/view/4098454065","Software Development Engineer","Ericsson","Bengaluru, Karnataka, India","2024-12-12","","",553
+"https://www.linkedin.com/jobs/view/4079191867","Software Engineer 3","Granicus","Bengaluru, Karnataka, India","2024-12-12","","",554
+"https://www.linkedin.com/jobs/view/4097211705","Java Full stack Developer","CN Solutions","Bengaluru, Karnataka, India","2024-12-12","","",555
+"https://www.linkedin.com/jobs/view/4097235374","Full Stack Developer","RayIot Solutions, Inc","Bangalore Rural, Karnataka, India","2024-12-12","","",556
+"https://www.linkedin.com/jobs/view/4079189979","Software Engineer 4","Granicus","Bengaluru, Karnataka, India","2024-12-12","","",557
+"https://www.linkedin.com/jobs/view/4097251846","MERN Stack Developer","MarsDevs","Bengaluru East, Karnataka, India","2024-12-12","","",558
+"https://www.linkedin.com/jobs/view/4061977823","Software Engineer, Engineering Productivity, Google Ads","Google","Bengaluru, Karnataka, India","2024-12-11","","",559
+"https://www.linkedin.com/jobs/view/4053399925","Senior Software Engineer_Fullstack","LinkedIn","Bengaluru, Karnataka, India","2024-12-11","","",560
+"https://www.linkedin.com/jobs/view/3969279969","Software Engineer III, Full Stack, Google Cloud","Google","Bengaluru, Karnataka, India","2024-12-11","","",561
+"https://www.linkedin.com/jobs/view/3936587434","Software Development Engineer II","Tesco Bengaluru","Bengaluru, Karnataka, India","2024-12-11","","",562
+"https://www.linkedin.com/jobs/view/4097041076","Fullstack Developer - Java / Javascript","SAP","Bengaluru East, Karnataka, India","2024-12-11","","",563
+"https://www.linkedin.com/jobs/view/4078481222","Developer-R&D","Sapiens","Bengaluru East, Karnataka, India","2024-12-11","","",564
+"https://www.linkedin.com/jobs/view/4080206891","Senior Software Engineer","Microsoft","Bengaluru, Karnataka, India","2024-12-11","","",565
+"https://www.linkedin.com/jobs/view/4080864396","Senior Software Engineer","Vista","Bengaluru, Karnataka, India","2024-12-11","","",566
+"https://www.linkedin.com/jobs/view/4096438208","Lead - Full stack Developer","Kasplo","Bengaluru, Karnataka, India","2024-12-11","","",567
+"https://www.linkedin.com/jobs/view/4060378497","Engineer- Software","CenTrak","Bengaluru, Karnataka, India","2024-12-11","","",568
+"https://www.linkedin.com/jobs/view/4096436271","Lead - Full stack Developer","Kasplo","Bengaluru, Karnataka, India","2024-12-11","","",569
+"https://www.linkedin.com/jobs/view/4095785264","Engineer","Qualcomm","Bengaluru, Karnataka, India","2024-12-11","","",570
+"https://www.linkedin.com/jobs/view/4096187138","Software Engineer, Front End, Google Cloud","Google","Bengaluru, Karnataka, India","2024-12-10","","",571
+"https://www.linkedin.com/jobs/view/4094015162","Software Engineer - Python, Cloud, Linux, (Angular or React)","Ivanti","Bangalore Urban, Karnataka, India","2024-12-10","","",572
+"https://www.linkedin.com/jobs/view/4045938499","Software Engineer III, Engineering Productivity, Google Cloud","Google","Bengaluru, Karnataka, India","","","",573
+"https://www.linkedin.com/jobs/view/4042950698","Software Developer","Siemens Gamesa","Bengaluru, Karnataka, India","","","",574
+"https://www.linkedin.com/jobs/view/4027377688","Computer Scientist- I","Adobe","Bengaluru, Karnataka, India","","","",575
+"https://www.linkedin.com/jobs/view/4081384920","Software Developer 3","Oracle","Bengaluru, Karnataka, India","","","",576
+"https://www.linkedin.com/jobs/view/4081892028","Senior Principal Software Engineer, ITC","Nike","Bengaluru, Karnataka, India","","","",577
